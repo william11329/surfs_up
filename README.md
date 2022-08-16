@@ -9,7 +9,7 @@ seasonal one.
 - keeping in mind the count for december is lower than june, the data shows that the difference in average temperature is only 4 degrees, and the difference in max temperature is only 2 degrees.
 - Our graph for december specifically shows the median temperature is closer to our average, and also less outliers to sku our average.
 - Our station temps recorded show that depending on the location, temperatures may be very similar or up to a 10 degree difference in 
-- june/july.
+ june/july.
 
 ![image](https://user-images.githubusercontent.com/66809577/184992033-dfe97ac6-1543-42d0-99a2-8515cd3c41f8.png)
 ![image](https://user-images.githubusercontent.com/66809577/184992131-7919f992-959d-40ff-b004-477ca44ddea0.png)
