@@ -17,7 +17,7 @@ seasonal one.
 
 
 
-## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary: 
 Based solely on the data analyzed it would seem that opening an ice cream/surf shop year round would be extremely viable. The data shows that the average temperature between months is only 4 degrees. The best evidence to contribute to my summary is that the median temp for december, having the highest frequency recorded, is just about 72 degrees which is near double the next highest, 75. Based on these temperature conditions it would seem that pairing an ice cream shop year round could be very profitable.
 
 ### Additional data
